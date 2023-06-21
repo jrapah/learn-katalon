@@ -123,7 +123,7 @@ WebUI.click(findTestObject('Object Repository/Inventory/span_Ditebus'))
 WebUI.click(findTestObject('Object Repository/Inventory/button_Cari'))
 
 if (WebUI.verifyElementPresent(findTestObject('Object Repository/Inventory/div_1'), 0)) {
-    WebUI.takeFullPageScreenshotAsCheckpoint('data_ditebus', FailureHandling.CONTINUE_ON_FAILURE)
+    WebUI.takeFullPageScreenshotAsCheckpoint('data_ditebus', FailureHandling.OPTIONAL)
 }
 
 WebUI.click(findTestObject('Object Repository/Inventory/span_Ditebus'))

@@ -23,8 +23,6 @@ WebUI.click(findTestObject('Object Repository/Inventory/a_Inventory'))
 
 WebUI.click(findTestObject('Object Repository/Inventory/button_Tanggal Kontrak_MuiButtonBase-root M_6e775a'))
 
-WebUI.click(findTestObject('Object Repository/Inventory/button_Tanggal Kontrak_MuiButtonBase-root M_6e775a'))
-
 WebUI.click(findTestObject('Object Repository/Inventory/button_26'))
 
 WebUI.click(findTestObject('Object Repository/Inventory/button_OK'))
