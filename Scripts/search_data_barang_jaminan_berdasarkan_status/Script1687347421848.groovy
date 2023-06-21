@@ -123,7 +123,7 @@ WebUI.click(findTestObject('Object Repository/Inventory/span_Ditebus'))
 WebUI.click(findTestObject('Object Repository/Inventory/button_Cari'))
 
 if (WebUI.verifyElementPresent(findTestObject('Object Repository/Inventory/div_1'), 0)) {
-    WebUI.takeFullPageScreenshotAsCheckpoint('data_ditebus')
+    WebUI.takeFullPageScreenshotAsCheckpoint('data_ditebus', FailureHandling.CONTINUE_ON_FAILURE)
 }
 
 WebUI.click(findTestObject('Object Repository/Inventory/span_Ditebus'))
@@ -133,7 +133,7 @@ WebUI.click(findTestObject('Object Repository/Inventory/span_Diambil'))
 WebUI.click(findTestObject('Object Repository/Inventory/button_Cari'))
 
 if (WebUI.verifyElementPresent(findTestObject('Object Repository/Inventory/div_1'), 0)) {
-    WebUI.takeFullPageScreenshotAsCheckpoint('data_diambil')
+    WebUI.takeFullPageScreenshotAsCheckpoint('data_diambil', FailureHandling.CONTINUE_ON_FAILURE)
 }
 
 WebUI.click(findTestObject('Object Repository/Inventory/span_Diambil'))
@@ -155,6 +155,6 @@ WebUI.click(findTestObject('Object Repository/Inventory/span_Kadaluwarsa'))
 WebUI.click(findTestObject('Object Repository/Inventory/button_Cari'))
 
 if (WebUI.verifyElementPresent(findTestObject('Object Repository/Inventory/div_1'), 0)) {
-    WebUI.takeFullPageScreenshotAsCheckpoint('data_kadaluwarsa')
+    WebUI.takeFullPageScreenshotAsCheckpoint('data_kadaluwarsa', FailureHandling.CONTINUE_ON_FAILURE)
 }
 

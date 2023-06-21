@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>a</value>
-      <webElementGuid>4f77727b-5319-4e9d-bff8-8748286fd763</webElementGuid>
+      <webElementGuid>09721890-ea07-414e-875d-99f5bf1a6b45</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -30,7 +30,7 @@
       <name>class</name>
       <type>Main</type>
       <value>nav-link</value>
-      <webElementGuid>f662cf62-8f86-485a-b039-ef2d98e188c0</webElementGuid>
+      <webElementGuid>5bbc8b28-a4d3-4e50-87d7-1387f21e27f7</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -38,7 +38,7 @@
       <name>href</name>
       <type>Main</type>
       <value>#/home/inventory</value>
-      <webElementGuid>7d4a9e48-0e6d-4845-a2a2-4ccbc56b5470</webElementGuid>
+      <webElementGuid>a5f3d089-b57d-4b53-bf02-abf001b7da3b</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -46,7 +46,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Inventory</value>
-      <webElementGuid>29505945-4dc6-4766-93a4-81005bfaab60</webElementGuid>
+      <webElementGuid>fd01f285-81b4-4db6-aae4-e01bd0adbc61</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -54,7 +54,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;root&quot;)/div[@class=&quot;app&quot;]/div[@class=&quot;app-body&quot;]/div[@class=&quot;navbar-bg-dark-green sidebar&quot;]/div[@class=&quot;scrollbar-container sidebar-nav ps&quot;]/ul[@class=&quot;nav&quot;]/li[@class=&quot;nav-item&quot;]/a[@class=&quot;nav-link&quot;]</value>
-      <webElementGuid>9ce9a1c0-8b81-46af-b274-b4d652e48ffd</webElementGuid>
+      <webElementGuid>67fcb4c7-3941-460b-ace2-1c608abcdf63</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -62,7 +62,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='root']/div[2]/div/div/div/ul/li/a</value>
-      <webElementGuid>b244bff4-2fbe-401e-8197-5267bec48f45</webElementGuid>
+      <webElementGuid>23973b66-7a75-4168-bd10-1e26e7d50e40</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -70,7 +70,7 @@
       <name>xpath:link</name>
       <type>Main</type>
       <value>//a[contains(text(),'Inventory')]</value>
-      <webElementGuid>7c41430c-b375-4ad6-ac6f-518aab3f8936</webElementGuid>
+      <webElementGuid>e9226f5d-8943-4c9f-a666-b163cdf6ef14</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -78,7 +78,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Logout'])[1]/following::a[1]</value>
-      <webElementGuid>ef86d47a-51f8-49e0-837b-09bb1c3c802a</webElementGuid>
+      <webElementGuid>57094b63-faa2-4f0b-97e4-e038af076a2a</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -86,7 +86,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Ubah Password'])[1]/following::a[1]</value>
-      <webElementGuid>0cf2dedf-9e37-46b6-bb13-4fd74fa8e781</webElementGuid>
+      <webElementGuid>7d5c7ad4-05eb-4f65-85c9-77900c6099ba</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -94,7 +94,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Data Label'])[1]/preceding::a[2]</value>
-      <webElementGuid>1a2cf9e0-d459-4cb8-b1b8-1abd92ba6089</webElementGuid>
+      <webElementGuid>36dfd5b1-e882-4071-b3c2-db0ea5df9b1c</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -102,7 +102,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Dashboard'])[1]/preceding::a[3]</value>
-      <webElementGuid>69ce84bd-0863-4379-93c7-d135cb4573ea</webElementGuid>
+      <webElementGuid>b60916c9-916d-45c4-9d11-fac9a3d8476b</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -110,7 +110,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='Inventory']/parent::*</value>
-      <webElementGuid>f1aa587a-a87e-465c-8771-96962455ab28</webElementGuid>
+      <webElementGuid>ebedeffd-b194-459d-8cad-e6e34493b68a</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -118,7 +118,7 @@
       <name>xpath:href</name>
       <type>Main</type>
       <value>//a[contains(@href, '#/home/inventory')]</value>
-      <webElementGuid>7db3e2f9-a4da-4f88-afb8-794a5e52e5a7</webElementGuid>
+      <webElementGuid>166b5966-f8a3-4ac9-b78a-6954e8c85d43</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -126,7 +126,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div/ul/li/a</value>
-      <webElementGuid>7f160e5d-d2a2-4de3-9c02-6be5d6e48390</webElementGuid>
+      <webElementGuid>53d1bd25-8ac3-46d5-a469-c9b1a6b58af8</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -134,6 +134,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//a[@href = '#/home/inventory' and (text() = 'Inventory' or . = 'Inventory')]</value>
-      <webElementGuid>c8dd5df6-de3d-44a2-bedf-c35f77947f58</webElementGuid>
+      <webElementGuid>445c8413-0dee-4ed9-9b19-b39e645905a7</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

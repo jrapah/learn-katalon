@@ -35,5 +35,7 @@ WebUI.verifyElementVisible(findTestObject('Object Repository/master_user/th_Role
 
 WebUI.verifyElementVisible(findTestObject('Object Repository/master_user/th_Hak Akses Tambahan'))
 
+WebUI.waitForPageLoad(3)
+
 WebUI.takeFullPageScreenshotAsCheckpoint('list_user')
 

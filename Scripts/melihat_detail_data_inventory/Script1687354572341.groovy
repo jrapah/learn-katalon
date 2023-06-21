@@ -26,5 +26,7 @@ WebUI.click(findTestObject('Object Repository/Inventory/button_Detail'))
 WebUI.verifyElementPresent(findTestObject('Object Repository/Inventory/div_Detail BarangNo Kredit13151-23-01-00144_41d075'), 
     0)
 
+WebUI.waitForPageLoad(3)
+
 WebUI.takeFullPageScreenshotAsCheckpoint('data_inventory_penaksir')
 

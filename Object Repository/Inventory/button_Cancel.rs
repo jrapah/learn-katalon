@@ -1,16 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>button_OK</name>
+   <name>button_Cancel</name>
    <tag></tag>
-   <elementGuidId>502e706a-189d-4db3-b337-86e807e28405</elementGuidId>
+   <elementGuidId>4bfce6e3-e694-4dcf-8711-4c02cd446253</elementGuidId>
    <selectorCollection>
       <entry>
          <key>CSS</key>
+         <value>button.MuiButtonBase-root.MuiButton-root.MuiButton-text.MuiButton-textPrimary</value>
       </entry>
       <entry>
          <key>XPATH</key>
-         <value>(//button[@type='button'])[68]</value>
+         <value>(//button[@type='button'])[67]</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -21,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>button</value>
-      <webElementGuid>f92b5e59-b31d-4548-9673-dc391c680213</webElementGuid>
+      <webElementGuid>a3c5a6ac-3f12-47c3-ab14-9e7a2b57d597</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -29,7 +30,7 @@
       <name>class</name>
       <type>Main</type>
       <value>MuiButtonBase-root MuiButton-root MuiButton-text MuiButton-textPrimary</value>
-      <webElementGuid>2b8dde7c-7c77-4544-a3b0-3c2e4ce4d7fc</webElementGuid>
+      <webElementGuid>823c0797-1a6a-4433-9dfb-6bfa97a87f18</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -37,7 +38,7 @@
       <name>tabindex</name>
       <type>Main</type>
       <value>0</value>
-      <webElementGuid>06b23abe-4b89-40f7-9303-0e6649ddbf74</webElementGuid>
+      <webElementGuid>7ff602e9-4a48-4e9e-a8cb-7d4f7deeb0bd</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -45,15 +46,15 @@
       <name>type</name>
       <type>Main</type>
       <value>button</value>
-      <webElementGuid>7684cb8e-7fee-4c57-8880-9a494e9d53a4</webElementGuid>
+      <webElementGuid>389f2a95-cd6f-40b2-8747-2136fcb6a679</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>text</name>
       <type>Main</type>
-      <value>OK</value>
-      <webElementGuid>7e5f16ea-3b23-4dc1-ba3b-2e652f900d9f</webElementGuid>
+      <value>Cancel</value>
+      <webElementGuid>ba4d2e93-9f52-4f73-ac02-369d391e1026</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -61,46 +62,54 @@
       <name>xpath</name>
       <type>Main</type>
       <value>/html[1]/body[@class=&quot;header-fixed sidebar-lg-show sidebar-fixed&quot;]/div[@class=&quot;MuiDialog-root&quot;]/div[@class=&quot;MuiDialog-container MuiDialog-scrollPaper&quot;]/div[@class=&quot;MuiPaper-root MuiDialog-paper MuiPickersModal-dialogRoot MuiDialog-paperScrollPaper MuiDialog-paperWidthSm MuiPaper-elevation24 MuiPaper-rounded&quot;]/div[@class=&quot;MuiDialogActions-root MuiDialogActions-spacing&quot;]/button[@class=&quot;MuiButtonBase-root MuiButton-root MuiButton-text MuiButton-textPrimary&quot;]</value>
-      <webElementGuid>8eaa697d-9393-4fb6-8783-98362dff7bfd</webElementGuid>
+      <webElementGuid>6ecd4e6b-b708-4330-82c7-f79c9d410e68</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:attributes</name>
       <type>Main</type>
-      <value>(//button[@type='button'])[68]</value>
-      <webElementGuid>258e6a62-9b2d-4a53-9afd-9c4e38ed4960</webElementGuid>
+      <value>(//button[@type='button'])[67]</value>
+      <webElementGuid>d79a1c86-8415-4047-8520-ade89b4cc5f7</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Cancel'])[1]/following::button[1]</value>
-      <webElementGuid>f3630f7b-d4b1-481b-b0c4-9e866238f800</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Sa'])[1]/following::button[36]</value>
+      <webElementGuid>42b00ad2-5a3c-4cea-9695-f9870bdd961f</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Sa'])[1]/following::button[37]</value>
-      <webElementGuid>7def7ac8-bb2e-4c1e-acbb-576c216d8d4d</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Fr'])[1]/following::button[36]</value>
+      <webElementGuid>0cf28362-0f01-415e-a9bf-23f1cfa56bc7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='OK'])[1]/preceding::button[1]</value>
+      <webElementGuid>8b236747-1a1d-40c4-8adc-885e3e623094</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:position</name>
       <type>Main</type>
-      <value>//div[2]/button[2]</value>
-      <webElementGuid>394e2ac2-0853-4604-953b-6791d7eb8fb5</webElementGuid>
+      <value>//div[3]/div/div[2]/button</value>
+      <webElementGuid>c4dbca2d-b718-444e-8ceb-c6973f946861</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:customAttributes</name>
       <type>Main</type>
-      <value>//button[@type = 'button' and (text() = 'OK' or . = 'OK')]</value>
-      <webElementGuid>876c3176-3295-4475-8441-4b490af453e9</webElementGuid>
+      <value>//button[@type = 'button' and (text() = 'Cancel' or . = 'Cancel')]</value>
+      <webElementGuid>dc295087-c443-43f5-9259-4d4711260c23</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

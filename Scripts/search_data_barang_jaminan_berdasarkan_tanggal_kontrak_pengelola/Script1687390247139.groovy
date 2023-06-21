@@ -21,11 +21,7 @@ WebUI.callTestCase(findTestCase('login_berhasil'), [('NIK') : 'P29902'], Failure
 
 WebUI.click(findTestObject('Object Repository/Inventory/a_Inventory'))
 
-WebUI.click(findTestObject('Object Repository/Inventory/button_Tanggal Kontrak_MuiButtonBase-root M_6e775a'))
-
-WebUI.click(findTestObject('Object Repository/Inventory/button_26'))
-
-WebUI.click(findTestObject('Object Repository/Inventory/button_OK'))
+WebUI.setText(findTestObject('Object Repository/Inventory/div_26-05-2023 0700'), '26/05/2023')
 
 WebUI.click(findTestObject('Object Repository/Inventory/button_Cari'))
 

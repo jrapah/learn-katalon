@@ -21,11 +21,7 @@ WebUI.callTestCase(findTestCase('login_berhasil'), [:], FailureHandling.STOP_ON_
 
 WebUI.click(findTestObject('Object Repository/Inventory/a_Inventory'))
 
-WebUI.click(findTestObject('Object Repository/Inventory/button_Tanggal Kontrak_MuiButtonBase-root M_6e775a'))
-
-WebUI.click(findTestObject('Object Repository/Inventory/button_26'))
-
-WebUI.click(findTestObject('Object Repository/Inventory/button_OK'))
+WebUI.setText(findTestObject('Object Repository/Inventory/input_Tanggal Kontrak_MuiInputBase-input Mu_7d22e3'), '26/05/2023')
 
 WebUI.click(findTestObject('Object Repository/Inventory/span_Dikoreksi'))
 

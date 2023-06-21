@@ -25,5 +25,7 @@ WebUI.click(findTestObject('Object Repository/Inventory/button_Detail'))
 
 WebUI.click(findTestObject('Object Repository/Inventory/span_'))
 
+WebUI.waitForPageLoad(3)
+
 WebUI.takeFullPageScreenshotAsCheckpoint('tutup_datail_inventory_penaksir')
 

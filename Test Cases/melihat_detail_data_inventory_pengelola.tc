@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TestCaseEntity>
    <description></description>
-   <name>kirim_rekap - Copy</name>
+   <name>melihat_detail_data_inventory_pengelola</name>
    <tag></tag>
    <comment></comment>
-   <testCaseGuid>ae7f17cf-2295-48d3-b3ab-9de40945f9c5</testCaseGuid>
+   <testCaseGuid>65982840-910c-411d-a81a-505a21de3adc</testCaseGuid>
 </TestCaseEntity>

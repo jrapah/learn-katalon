@@ -23,5 +23,7 @@ WebUI.click(findTestObject('Object Repository/Inventory/a_Inventory'))
 
 WebUI.click(findTestObject('Object Repository/Inventory/button_Cetak Laporan'))
 
+WebUI.waitForPageLoad(3)
+
 WebUI.takeFullPageScreenshotAsCheckpoint('cetak_laporan_penaksir')
 

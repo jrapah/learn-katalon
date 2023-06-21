@@ -27,5 +27,7 @@ WebUI.setText(findTestObject('Object Repository/master_user/input_User_search'),
 
 WebUI.verifyElementPresent(findTestObject('Object Repository/master_user/td_There is no data to display'), 0)
 
+WebUI.waitForPageLoad(3)
+
 WebUI.takeFullPageScreenshotAsCheckpoint('filter_search_data_user_yang_tidak_ada')
 

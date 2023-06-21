@@ -21,7 +21,9 @@ WebUI.callTestCase(findTestCase('login_berhasil'), [('NIK') : 'P29902'], Failure
 
 WebUI.click(findTestObject('Object Repository/Inventory/a_Inventory'))
 
-WebUI.click(findTestObject('Object Repository/Inventory/button_Kirim Rekap'))
+WebUI.click(findTestObject('Object Repository/Inventory/button_Cetak Laporan'))
 
-WebUI.takeFullPageScreenshotAsCheckpoint('kirim_rekap_pengelola')
+WebUI.waitForPageLoad(3)
+
+WebUI.takeFullPageScreenshotAsCheckpoint('cetak_laporan_pengelola')
 

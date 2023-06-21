@@ -23,5 +23,7 @@ WebUI.click(findTestObject('Object Repository/Inventory/a_Inventory'))
 
 WebUI.click(findTestObject('Object Repository/Inventory/button_Kirim Rekap'))
 
+WebUI.waitForPageLoad(3)
+
 WebUI.takeFullPageScreenshotAsCheckpoint('kirim_rekap')
 

@@ -25,5 +25,7 @@ WebUI.click(findTestObject('Object Repository/master_user/a_User'))
 
 WebUI.selectOptionByValue(findTestObject('Object Repository/master_user/select_510152550100'), '100', true)
 
+WebUI.waitForPageLoad(3)
+
 WebUI.takeFullPageScreenshotAsCheckpoint('dataperpage_masteruser')
 

@@ -15,7 +15,7 @@
       <guid>45638f82-2b70-4404-a8db-fa40a99188d3</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/cetak_laporan - Copy</testCaseId>
+      <testCaseId>Test Cases/cetak_laporan_pengelola</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
    <testCaseLink>
@@ -50,7 +50,7 @@
       <guid>5dafa1c4-0ca5-42ea-86c2-99fdac81bdde</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/kirim_rekap - Copy</testCaseId>
+      <testCaseId>Test Cases/kirim_rekap_pengelola</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
    <testCaseLink>
@@ -84,14 +84,14 @@
       <guid>38bb5f27-bb62-4804-8d2a-b9a04beb2f45</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/melihat_detail_data_inventory - Copy</testCaseId>
+      <testCaseId>Test Cases/melihat_detail_data_inventory_pengelola</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
    <testCaseLink>
       <guid>9241efcd-db7b-45eb-9b87-bc01fe51d997</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/melihat_halaman_inventory - Copy</testCaseId>
+      <testCaseId>Test Cases/melihat_halaman_inventory_pengelola</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
    <testCaseLink>
@@ -112,7 +112,7 @@
       <guid>786ecb5c-5956-4c3d-9095-e8e31c728d97</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/mengurutkan_berdasarkan_tanggal_status - Copy</testCaseId>
+      <testCaseId>Test Cases/mengurutkan_berdasarkan_tanggal_status_pengelola</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
    <testCaseLink>
@@ -126,7 +126,7 @@
       <guid>76f6dbb8-cd5b-4aff-bcd1-17d39aced30e</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/menutup_detail_data_inventory - Copy</testCaseId>
+      <testCaseId>Test Cases/menutup_detail_data_inventory_pengelola</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
    <testCaseLink>
@@ -140,7 +140,7 @@
       <guid>d5a0c70d-f8d7-42c2-ae63-a6706a992f34</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/pagination - Copy</testCaseId>
+      <testCaseId>Test Cases/pagination_pengelola</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
    <testCaseLink>
@@ -182,7 +182,7 @@
       <guid>9085618e-25fa-4cfd-a5ba-803676d935f8</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/search_data_barang_jaminan_berdasarkan_no_kredit - Copy</testCaseId>
+      <testCaseId>Test Cases/search_data_barang_jaminan_berdasarkan_no_kredit_pengelola</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
    <testCaseLink>

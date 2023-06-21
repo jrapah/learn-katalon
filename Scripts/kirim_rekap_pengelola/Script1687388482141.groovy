@@ -17,13 +17,13 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
-WebUI.callTestCase(findTestCase('melihat_detail_data_inventory'), [:], FailureHandling.STOP_ON_FAILURE)
+WebUI.callTestCase(findTestCase('login_berhasil'), [('NIK') : 'P29902'], FailureHandling.STOP_ON_FAILURE)
 
-WebUI.click(findTestObject('Object Repository/Inventory/button_Tutup'))
+WebUI.click(findTestObject('Object Repository/Inventory/a_Inventory'))
 
-WebUI.click(findTestObject('Object Repository/Inventory/button_Detail'))
+WebUI.click(findTestObject('Object Repository/Inventory/button_Kirim Rekap'))
 
-WebUI.click(findTestObject('Object Repository/Inventory/span_'))
+WebUI.waitForPageLoad(3)
 
-WebUI.takeFullPageScreenshotAsCheckpoint('tutup_datail_inventory_pengelola')
+WebUI.takeFullPageScreenshotAsCheckpoint('kirim_rekap_pengelola')
 

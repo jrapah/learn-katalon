@@ -74,7 +74,7 @@ WebUI.verifyElementVisible(findTestObject('Object Repository/Inventory/th_Status
 
 WebUI.verifyElementVisible(findTestObject('Object Repository/Inventory/th_Action'), FailureHandling.STOP_ON_FAILURE)
 
-WebUI.takeFullPageScreenshotAsCheckpoint('halaman_inventory_pengelola')
+WebUI.waitForPageLoad(3)
 
-WebUI.closeBrowser()
+WebUI.takeFullPageScreenshotAsCheckpoint('halaman_inventory_pengelola')
 

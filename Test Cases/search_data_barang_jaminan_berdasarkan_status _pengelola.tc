@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TestCaseEntity>
    <description></description>
-   <name>search_data_barang_jaminan_berdasarkan_status - Copy</name>
+   <name>search_data_barang_jaminan_berdasarkan_status _pengelola</name>
    <tag></tag>
    <comment></comment>
    <testCaseGuid>38452249-6159-420c-a98a-e34b04765119</testCaseGuid>

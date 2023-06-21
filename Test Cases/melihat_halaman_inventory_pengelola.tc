@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TestCaseEntity>
    <description></description>
-   <name>cetak_laporan - Copy</name>
+   <name>melihat_halaman_inventory_pengelola</name>
    <tag></tag>
    <comment></comment>
-   <testCaseGuid>bdffbac5-bb6c-4f7f-a78a-3326b90d29f7</testCaseGuid>
+   <testCaseGuid>c452e226-32ac-4296-bff5-225856d54d09</testCaseGuid>
 </TestCaseEntity>

@@ -29,5 +29,7 @@ WebUI.setEncryptedText(findTestObject('Object Repository/Login/input_Password ti
 
 WebUI.click(findTestObject('Object Repository/Login/button_Login'))
 
+WebUI.waitForPageLoad(10)
+
 WebUI.takeFullPageScreenshotAsCheckpoint('halaman_dashboard')
 

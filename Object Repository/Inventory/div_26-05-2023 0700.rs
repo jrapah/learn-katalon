@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>div</value>
-      <webElementGuid>5620f08f-9184-4b2c-b627-11f4c79ea65f</webElementGuid>
+      <webElementGuid>f2329e6b-ceac-4772-b711-c552c47ed307</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -30,7 +30,7 @@
       <name>text</name>
       <type>Main</type>
       <value>26-05-2023 07:00</value>
-      <webElementGuid>61559a05-b0e8-44f0-b0db-45bb6e458882</webElementGuid>
+      <webElementGuid>975115e1-4361-4a3b-859c-dd952e328eea</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -38,7 +38,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;root&quot;)/div[@class=&quot;app&quot;]/div[@class=&quot;app-body&quot;]/main[@class=&quot;main&quot;]/div[@class=&quot;container-fluid&quot;]/div[@class=&quot;animated fadeIn&quot;]/div[@class=&quot;card&quot;]/div[@class=&quot;card-body&quot;]/div[@class=&quot;react-bs-table-container&quot;]/div[@class=&quot;react-bs-table react-bs-table-bordered&quot;]/div[@class=&quot;react-bs-container-body&quot;]/table[@class=&quot;table table-striped table-bordered table-hover&quot;]/tbody[1]/tr[1]/td[3]/div[1]</value>
-      <webElementGuid>1b40229c-b3a5-4949-ae8b-39a8bf31373f</webElementGuid>
+      <webElementGuid>360e54d5-ca27-4bca-9bdf-88f69b34af6d</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -46,7 +46,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='root']/div[2]/div/main/div[2]/div/div[3]/div/div[3]/div/div[2]/table/tbody/tr/td[3]/div</value>
-      <webElementGuid>18c054ca-4b66-4074-bd00-a8596dcd5e95</webElementGuid>
+      <webElementGuid>199315df-d1dc-4c07-9d7c-ac614b847a43</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -54,7 +54,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Action'])[1]/following::div[4]</value>
-      <webElementGuid>cb68d697-da2d-48f7-ab6b-0792c8c25578</webElementGuid>
+      <webElementGuid>cccb71af-09d1-435f-90f1-e9b79aef548a</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -62,7 +62,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='StatusKredit'])[1]/following::div[5]</value>
-      <webElementGuid>ccb002e9-b677-4f75-824f-110f836cd869</webElementGuid>
+      <webElementGuid>84dd4c70-438a-4f8c-93c3-741241558984</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -70,7 +70,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='GADAI KCA'])[1]/preceding::div[3]</value>
-      <webElementGuid>a19138c8-b394-4636-a6da-7a3ee9478808</webElementGuid>
+      <webElementGuid>90a3b3ea-2224-4449-b9f6-6078c776fa5e</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -78,7 +78,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='D'])[1]/preceding::div[4]</value>
-      <webElementGuid>59eec071-cd66-46f2-abf0-6bc050eca408</webElementGuid>
+      <webElementGuid>ec785f6e-854f-4c68-b744-4d12a520c658</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -86,7 +86,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='26-05-2023 07:00']/parent::*</value>
-      <webElementGuid>98ae8842-e3c7-46ac-8168-0bb6ee707413</webElementGuid>
+      <webElementGuid>70949f7d-b8d4-4d05-bf70-a4fe3fcfd51e</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -94,7 +94,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//td[3]/div</value>
-      <webElementGuid>db86003c-f160-4553-b2d4-c0e2a2182531</webElementGuid>
+      <webElementGuid>a35cb423-c1ba-43de-b873-f3d420beabe9</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -102,6 +102,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//div[(text() = '26-05-2023 07:00' or . = '26-05-2023 07:00')]</value>
-      <webElementGuid>fbdc559f-035b-432d-84f1-e31c509479a7</webElementGuid>
+      <webElementGuid>62c7caea-4f95-478c-a3cd-dffefe2353f0</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>
