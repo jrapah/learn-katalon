@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_TanggalStatus_fa fa-sort-desc</name>
+   <tag></tag>
+   <elementGuidId>bbc2ea6f-76b4-443f-a684-0e77d78e475f</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>span.fa.fa-sort-desc</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div[2]/div/main/div[2]/div/div[3]/div/div[3]/div/div/table/thead/tr/th[2]/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>aa3bf093-d563-4fc2-aee7-e43d4756cb0d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>fa fa-sort-desc</value>
+      <webElementGuid>2116cabf-8cc3-41ea-b475-83e496a47abd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;app&quot;]/div[@class=&quot;app-body&quot;]/main[@class=&quot;main&quot;]/div[@class=&quot;container-fluid&quot;]/div[@class=&quot;animated fadeIn&quot;]/div[@class=&quot;card&quot;]/div[@class=&quot;card-body&quot;]/div[@class=&quot;react-bs-table-container&quot;]/div[@class=&quot;react-bs-table react-bs-table-bordered&quot;]/div[@class=&quot;react-bs-container-header table-header-wrapper&quot;]/table[@class=&quot;table table-hover table-bordered&quot;]/thead[1]/tr[1]/th[@class=&quot;sort-column&quot;]/span[@class=&quot;fa fa-sort-desc&quot;]</value>
+      <webElementGuid>dcd2f86d-19b3-45d1-94e9-f4273201677d</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div[2]/div/main/div[2]/div/div[3]/div/div[3]/div/div/table/thead/tr/th[2]/span</value>
+      <webElementGuid>244e79b9-9b7a-47ea-9c64-a3b407acc801</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//th[2]/span</value>
+      <webElementGuid>310d7cbf-63a1-4002-a2eb-52fee0337a15</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

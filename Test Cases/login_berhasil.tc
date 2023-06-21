@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>login_berhasil</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>763111fd-7ad8-4701-82b0-b45bf2614603</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>48fc618a-4194-4d43-a616-a05ba5e07073</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'P29901'</defaultValue>
+      <description></description>
+      <id>48fc618a-4194-4d43-a616-a05ba5e07073</id>
+      <masked>false</masked>
+      <name>NIK</name>
+   </variable>
+</TestCaseEntity>

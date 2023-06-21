@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>search_data_barang_jaminan_berdasarkan_tanggal_kontrak</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>dbb1d551-523a-49d2-be62-0f476d364d5c</testCaseGuid>
+</TestCaseEntity>
