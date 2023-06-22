@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TestSuiteEntity>
    <description></description>
-   <name>FullTest</name>
+   <name>TestCasePassed</name>
    <tag></tag>
    <isRerun>false</isRerun>
    <mailRecipient></mailRecipient>
@@ -10,65 +10,65 @@
    <pageLoadTimeoutDefault>true</pageLoadTimeoutDefault>
    <rerunFailedTestCasesOnly>false</rerunFailedTestCasesOnly>
    <rerunImmediately>true</rerunImmediately>
-   <testSuiteGuid>474f2898-11f4-422c-84df-ea829f0fda50</testSuiteGuid>
+   <testSuiteGuid>944a7c13-524b-42ec-8ec5-a7ea6614eb8a</testSuiteGuid>
    <testCaseLink>
-      <guid>052b681e-9a39-4853-8eaa-64188ccdc697</guid>
+      <guid>9bf48574-56e1-4a13-919a-a185c6154fcf</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
       <testCaseId>Test Cases/cetak_laporan</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
    <testCaseLink>
-      <guid>a1b761f4-4466-4eba-882f-1a568846c19c</guid>
+      <guid>a114cf92-5eff-4ece-9a07-beead501108e</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
       <testCaseId>Test Cases/cetak_laporan_pengelola</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
    <testCaseLink>
-      <guid>e6c68273-f029-4533-bd28-58040a2278a5</guid>
+      <guid>68e88ba9-510f-496b-93d0-eeebbb5c4216</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
       <testCaseId>Test Cases/filter_search_data_user</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
    <testCaseLink>
-      <guid>04c1042d-fa01-42bd-bd3b-0f7c50814fac</guid>
+      <guid>3f486ab4-32e8-4c97-ac7a-ba53400c665a</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
       <testCaseId>Test Cases/filter_search_data_user_yang_tidak_ada</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
    <testCaseLink>
-      <guid>08e12688-a375-4333-a413-55b0f7f56b76</guid>
+      <guid>3e7cd287-7ae7-41e4-96e3-11f47fd2d2f2</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
       <testCaseId>Test Cases/jumlah_data_per_halaman</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
    <testCaseLink>
-      <guid>65753c3b-65ff-4b00-8314-c7aeeb21d455</guid>
+      <guid>b66133e4-7066-41c7-baae-75a3f015715c</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
       <testCaseId>Test Cases/kirim_rekap</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
    <testCaseLink>
-      <guid>71abefb4-5885-4721-ae24-3218f2c703f2</guid>
+      <guid>a9226cf7-7da3-4590-b6ca-a1512afc03d8</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
       <testCaseId>Test Cases/kirim_rekap_pengelola</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
    <testCaseLink>
-      <guid>cfb24808-5bf4-44cd-80a4-62129e57ff5a</guid>
+      <guid>4bda3eb6-a9f1-4cb6-b5d7-d9ab67c37678</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
       <testCaseId>Test Cases/lihat_list_user</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
    <testCaseLink>
-      <guid>f9e2c626-5e8a-412a-a5c9-2aa7d0acf37e</guid>
+      <guid>1ae1b541-d7c0-4e2f-bdb3-cc3285a154ae</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
       <testCaseId>Test Cases/login_berhasil</testCaseId>
@@ -81,157 +81,122 @@
       </variableLink>
    </testCaseLink>
    <testCaseLink>
-      <guid>f209e120-3df2-4921-9c54-719ded1066ba</guid>
+      <guid>8a72f97c-2319-4b29-922f-f84b82f963a5</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
       <testCaseId>Test Cases/melihat_detail_data_inventory</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
    <testCaseLink>
-      <guid>aed1a8d3-a8ff-415e-84f4-18e61fdf4d11</guid>
+      <guid>b06a2e65-8b07-488a-8d9f-b8e68459a27b</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
       <testCaseId>Test Cases/melihat_detail_data_inventory_pengelola</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
    <testCaseLink>
-      <guid>e3d96e8f-67a7-4221-a296-8ba9b2473cc3</guid>
-      <isReuseDriver>false</isReuseDriver>
-      <isRun>true</isRun>
-      <testCaseId>Test Cases/melihat_halaman_inventory_pengelola</testCaseId>
-      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
-   </testCaseLink>
-   <testCaseLink>
-      <guid>bd17f612-9218-4ab7-aa5d-93111aca48d7</guid>
+      <guid>b1d72d1c-e0d1-4100-9875-4a7ce1b9d956</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
       <testCaseId>Test Cases/melihat_halaman_inventory</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
    <testCaseLink>
-      <guid>d86556d7-849d-4576-8bf9-5d030cfc4d37</guid>
+      <guid>e2c79d14-23ea-49c9-8bbb-e63ecdfbc1b8</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/melihat_halaman_inventory_pengelola</testCaseId>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>0d25cdbe-c6a8-4383-8ee2-f7cfa50fc43a</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
       <testCaseId>Test Cases/mengurutkan_berdasarkan_tanggal_status</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
    <testCaseLink>
-      <guid>0b66c83e-f924-412f-887d-c3518c26b3c5</guid>
+      <guid>b9c6bf1b-c35a-4f85-8145-778efce650e1</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
       <testCaseId>Test Cases/mengurutkan_berdasarkan_tanggal_status_pengelola</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
    <testCaseLink>
-      <guid>0734ad86-c4a0-481d-b21f-cbedf506c3f9</guid>
+      <guid>f3714f88-23f0-4c4c-9f7b-70587216ccb1</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
       <testCaseId>Test Cases/menutup_detail_data_inventory</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
    <testCaseLink>
-      <guid>efc7583a-6c06-42a4-bc28-3827be53c142</guid>
+      <guid>5e998b66-32fa-4c4e-90fc-d5a5225921af</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/menutup_detail_data_inventory_pengelola</testCaseId>
+      <testCaseId>Test Cases/search_data_barang_jaminan_tidak_ditemukan</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
    <testCaseLink>
-      <guid>51280a8c-3d4c-42f2-9617-a5f2d3e4d2e4</guid>
-      <isReuseDriver>false</isReuseDriver>
-      <isRun>true</isRun>
-      <testCaseId>Test Cases/pagination</testCaseId>
-      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
-   </testCaseLink>
-   <testCaseLink>
-      <guid>cf896b64-ef21-4505-b415-bd24d069d778</guid>
-      <isReuseDriver>false</isReuseDriver>
-      <isRun>true</isRun>
-      <testCaseId>Test Cases/pagination_master_user</testCaseId>
-      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
-   </testCaseLink>
-   <testCaseLink>
-      <guid>ad9bf134-38fb-4376-b954-c98585b89112</guid>
-      <isReuseDriver>false</isReuseDriver>
-      <isRun>true</isRun>
-      <testCaseId>Test Cases/search_data_barang_jaminan_berdasarkan_epc_dan_status</testCaseId>
-      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
-   </testCaseLink>
-   <testCaseLink>
-      <guid>5db86a03-d159-443b-85bc-86224fb23018</guid>
-      <isReuseDriver>false</isReuseDriver>
-      <isRun>true</isRun>
-      <testCaseId>Test Cases/search_data_barang_jaminan_berdasarkan_epc_label_rfid</testCaseId>
-      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
-   </testCaseLink>
-   <testCaseLink>
-      <guid>3bf3eb8b-976c-49af-8eee-15d5af53e4f5</guid>
-      <isReuseDriver>false</isReuseDriver>
-      <isRun>true</isRun>
-      <testCaseId>Test Cases/search_data_barang_jaminan_berdasarkan_no._kredit_dan_status</testCaseId>
-      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
-   </testCaseLink>
-   <testCaseLink>
-      <guid>6b5259bc-20ce-404a-915e-02d8841ff068</guid>
+      <guid>1c6f0c43-f364-44c6-a969-9d2526613925</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
       <testCaseId>Test Cases/search_data_barang_jaminan_berdasarkan_no_kredit</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
    <testCaseLink>
-      <guid>5063af26-d7ce-4b1b-836d-7dfab5add0e0</guid>
-      <isReuseDriver>false</isReuseDriver>
-      <isRun>true</isRun>
-      <testCaseId>Test Cases/pagination_pengelola</testCaseId>
-      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
-   </testCaseLink>
-   <testCaseLink>
-      <guid>32ead3c2-d793-456e-85fb-86a79b4bc9a7</guid>
+      <guid>f86adeb6-0443-4156-800f-d97742fe1be2</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
       <testCaseId>Test Cases/search_data_barang_jaminan_berdasarkan_no_kredit_pengelola</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
    <testCaseLink>
-      <guid>b93b1876-343e-4719-b0fa-5940b80b37f4</guid>
+      <guid>9fe60cbf-ad02-4f58-aecf-0c171eed9e6f</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/search_data_barang_jaminan_berdasarkan_status _pengelola</testCaseId>
+      <testCaseId>Test Cases/search_data_barang_jaminan_berdasarkan_no._kredit_dan_status</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
    <testCaseLink>
-      <guid>687153e1-4354-4955-8e8d-f560965ace87</guid>
+      <guid>72c7d19a-ef8e-4035-abd4-0b018053ded8</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/search_data_barang_jaminan_berdasarkan_status</testCaseId>
+      <testCaseId>Test Cases/search_data_barang_jaminan_berdasarkan_epc_label_rfid</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
    <testCaseLink>
-      <guid>ca5f3fff-e9db-44a0-8977-5f2920c4109c</guid>
+      <guid>f0af8a05-c3b4-4b72-bca9-b20e559c0f12</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/search_data_barang_jaminan_berdasarkan_tanggal_kontrak_dan_status</testCaseId>
+      <testCaseId>Test Cases/search_data_barang_jaminan_berdasarkan_epc_dan_status</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
    <testCaseLink>
-      <guid>717034e2-2807-4e4f-b2d7-4d7ee5cdcf92</guid>
+      <guid>74a062e4-6e54-44e6-bfee-d473ee94bd26</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/search_data_barang_jaminan_berdasarkan_tanggal_kontrak</testCaseId>
+      <testCaseId>Test Cases/pagination_pengelola</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
    <testCaseLink>
-      <guid>80bee082-0ff7-48d3-a06b-ba50bea10134</guid>
+      <guid>15ea31d6-868f-4517-abe7-46e33a6daa32</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/search_data_barang_jaminan_berdasarkan_tanggal_kontrak_pengelola</testCaseId>
+      <testCaseId>Test Cases/pagination_master_user</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
    <testCaseLink>
-      <guid>139a8ef4-50d5-4e5e-ba69-a5d5a44b9d64</guid>
+      <guid>20247ff2-34c6-4276-938a-323242a08628</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/search_data_barang_jaminan_tidak_ditemukan</testCaseId>
+      <testCaseId>Test Cases/pagination</testCaseId>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>1eafa9e4-954e-4927-8dc3-1ab04383e370</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/menutup_detail_data_inventory_pengelola</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
 </TestSuiteEntity>
